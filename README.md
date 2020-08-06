@@ -1,4 +1,4 @@
-### Hi there, I'm Balamurugan - aka [BalaDhruv][website] 👋
+### Hi there, I'm Balamurugan - aka [BalaDhruv][https://chaty---chat-with-strangers.firebaseapp.com/splash] 👋
 
 ## I'm a Developer, and Teacher!
 - 🔭 I’m currently working on a [Chat Application][website]!
