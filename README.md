@@ -37,7 +37,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BalaDhruv&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaDhruv&layout=compact&hide_border=true)](https://github.com/BalaDhruv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaDhruv&hide_border=true)](https://github.com/BalaDhruv/github-readme-stats)
 
 [website]: https://balamurugan.dev/
 [chat-app]: https://chaty---chat-with-strangers.firebaseapp.com/splash
