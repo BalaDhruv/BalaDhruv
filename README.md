@@ -1,7 +1,7 @@
 ### Hi there, I'm Balamurugan - aka [BalaDhruv][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Chat Application][chat-app]!
+- 🔭 I’m currently working on a [Flutter Redux Gen][flg]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -41,5 +41,6 @@
 
 [website]: https://balamurugan.dev/
 [chat-app]: https://chaty---chat-with-strangers.firebaseapp.com/splash
+[flg]: https://github.com/BalaDhruv/Flutter_Redux_Gen
 [instagram]: https://www.instagram.com/baladhruv/
 [linkedin]: https://www.linkedin.com/in/baladhruv/
